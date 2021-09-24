@@ -1,7 +1,7 @@
 
 Hi there! This is henry_23. You can call me Henry.
 
-- Currently 3rd year at college.
+- Currently 3rd year in college.
 - For a Computer Science student, it is common to learn many prgramming language such as C++, Java, Python, maybe also HTML, JavaScript, etc.
 - But I would use C++ more than others for the time being. Planning to learn [Rust](https://www.rust-lang.org/).
 - Pronouns: he/him; they/them
