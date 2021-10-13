@@ -6,6 +6,5 @@ Hi there! This is henry_23. You can call me Henry.
 - But I would use C++ more than others for the time being. Planning to learn [Rust](https://www.rust-lang.org/).
 - Pronouns: he/him; they/them
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsagaanbar)
-
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsagaanbar)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsagaanbar&theme=vue-dark&show_icons=true)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsagaanbar&theme=vue-dark&langs_count=3)
