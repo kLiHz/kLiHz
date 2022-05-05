@@ -1,5 +1,5 @@
 
-Hi there! This is **Tiger:blank**. I also have a English name, Henry. You can call me that, too.
+Hi there! This is **Tiger:blank**. You can call me my English name "Henry", too.
 
 - Currently 3rd year in college.
 - As for a Computer Science student, it is common for them to learn many prgramming language such as C++, Java, Python, and also technologies such as HTML, JavaScript, etc.
