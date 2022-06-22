@@ -1,5 +1,5 @@
 
-Hi there! This is **kLiHb** [^1]. You can call me my English name "Henry"[^2], too.
+Hi there! This is **kLiHz** [^1]. You can call me my English name "Henry"[^2], too.
 
 - Currently 3rd year in college.
 - Native Chinese speaker, with some experience in speaking English. Planning to learn some other languages.
@@ -10,8 +10,8 @@ Hi there! This is **kLiHb** [^1]. You can call me my English name "Henry"[^2], t
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=klihb&theme=vue-dark&show_icons=true)
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klihb&theme=vue-dark&langs_count=3)
 
-[^1]: This ID "kLiHb" doesn't mean to have some certain meaning when I came up with it. The meaning is up to your imagination.
-You may think it as "k-Li-H-b" where "Li" is a Chinese family name and "H" stands for a first name.
+[^1]: This ID "kLiHz" doesn't mean to have some certain meaning when I came up with it. The meaning is up to your imagination.
+You may think it as "k-Li-H-z" where "Li" is a Chinese family name and "H" stands for a first name.
 Anyway I just wanted a username which may start with a "k" (or a uppercase one) and it should be looking cool to me.
 
 [^2]: I used to refer to myself by 'henry_23', which probably origins from among some duaplicated IDs of "henry",
