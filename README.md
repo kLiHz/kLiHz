@@ -7,8 +7,8 @@ Hi there! This is **kLiHz** [^1]. You can call me my English name "Henry"[^2], t
 - Writes C++ / Python most of the time. Learning [Rust](https://www.rust-lang.org/) currently.
 - Pronouns: he/him; they/them.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=klihb&theme=vue-dark&show_icons=true)
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klihb&theme=vue-dark&langs_count=3)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kLiHz&theme=vue-dark&show_icons=true)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kLiHz&theme=vue-dark&langs_count=3)
 
 [^1]: This ID "kLiHz" doesn't mean to have some certain meaning when I came up with it. The meaning is up to your imagination.
 You may think it as "k-Li-H-z" where "Li" is a Chinese family name and "H" stands for a first name.
